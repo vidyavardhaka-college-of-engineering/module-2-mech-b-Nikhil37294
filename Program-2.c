@@ -1,6 +1,6 @@
 //PRINTING FIRST N NATURAL NUMEBRS
-//INPUT 3
-//OUTPUT  1 2 3
+//INPUT- 3
+//OUTPUT - 1 2 3
 
 
 #include<stdio.h>
